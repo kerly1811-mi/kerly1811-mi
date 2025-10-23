@@ -48,10 +48,4 @@ Actualmente cursando **cuarto semestre** en la **Universidad Técnica de Ambato*
 
 ---
 
-<div align="center">
 
-💡 *"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."* - Proverbio chino
-
-![Profile views](https://komarev.com/ghpvc/?username=kerly1811-mi&color=blueviolet)
-
-</div>
