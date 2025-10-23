@@ -1,4 +1,4 @@
-## Hi there 👋 Soy Kerly!
+## Hola Soy Kerly!
 
 ### 🎓 Estudiante de Ingeniería de Software
 Actualmente cursando **cuarto semestre** en la **Universidad Técnica de Ambato**, apasionada por el desarrollo de software y la tecnología.
