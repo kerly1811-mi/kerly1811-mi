@@ -4,8 +4,6 @@
 
 ### ✨ Frontend Developer · Estudiante de Ingeniería de Software · UTA · 6to semestre
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Laravel;Clean+Architecture;Siempre+aprendiendo+nuevas+tecnologías" />
-
 </div>
 
 ---
