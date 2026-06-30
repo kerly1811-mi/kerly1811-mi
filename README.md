@@ -102,17 +102,6 @@ APIs REST robustas y aplicaciones escalables.
 
 ---
 
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kerly1811-mi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kerly1811-mi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
