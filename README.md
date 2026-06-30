@@ -102,15 +102,14 @@ APIs REST robustas y aplicaciones escalables.
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kerly1811-mi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerly1811-mi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kerly1811-mi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kerly1811-mi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -124,25 +123,7 @@ APIs REST robustas y aplicaciones escalables.
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kerly1811-mi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kerly1811-mi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 📈 Perfil
 
